@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aqib.cv.base",
+    "sha256_cert_fingerprints":
+    ["DE:22:E0:94:4B:E0:7A:43:2C:66:97:79:15:7D:53:BF:B6:B4:B3:90:10:B2:39:7A:B7:3F:C6:9B:91:EF:4A:8E"]
+  }
+}
